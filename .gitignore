@@ -1,0 +1,7 @@
+__pycache__/
+*.pth
+*.nii
+*.nii.gz
+.venv/
+.venv-ADAM/
+.env

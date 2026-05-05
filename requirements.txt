@@ -1,0 +1,8 @@
+torch
+torchvision
+monai
+pandas
+scikit-learn
+seaborn
+matplotlib
+nibabel
