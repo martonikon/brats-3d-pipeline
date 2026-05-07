@@ -17,3 +17,4 @@ The diagnostic model utilizes a **3D DenseNet-121** architecture via the [MONAI]
 1. Install dependencies: `pip install -r requirements.txt`
 2. Download BraTS 2020 dataset and adjust the `ROOT_DIR` in the scripts.
 3. Run `train_brats.py` to initiate the training loop.
+    
